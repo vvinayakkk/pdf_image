@@ -1,0 +1,10 @@
+streamlit 
+pymupdf 
+pillow 
+google-generativeai
+ groq 
+ python-dotenv 
+ camelot-py[pdf] 
+ sentence-transformers
+  faiss-cpu 
+  numpy
